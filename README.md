@@ -18,7 +18,7 @@ Hey Everyone! I thought that this boilerplate for a simple website would be usef
 2. [Node.js](https://nodejs.org/)
 3. Any online browser to see localhost
 
-## What to run in terminal once you get the code
+## What to run in the terminal once you get the code
 
 When you get into VSC and in the folder containing the `server.js` file there are a few lines of commands you need to run to get this to work.
 1. Installing the Node.js into the server:
@@ -34,7 +34,7 @@ When you get into VSC and in the folder containing the `server.js` file there ar
 6. Install SASS for the server:
 ```npm install -g sass```
 > Note for Sass: 
-> I recomend downloading the Live SASS Compiler when developeming with SASS when you have it running in VSC. If you don't want to run with that extra program, whenever you save the sass file run
+> I recommend downloading the Live SASS Compiler when developing with SASS when you have it running in VSC. If you don't want to run with that extra program, whenever you save the sass file run
 > ```sass styles.sass:styles.css```  
 > when in the styles folder.
 7. Install Express-Handlebars for the server:
