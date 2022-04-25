@@ -1,0 +1,27 @@
+{
+  "name": "website-boilerplate",
+  "version": "1.0.0",
+  "description": "Website Boilerplate to give a starting code for web development",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.0",
+    "express-handlebars": "^6.0.5",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshBell302/Website-Boilerplate.git"
+  },
+  "author": "Joshua Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshBell302/Website-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/JoshBell302/Website-Boilerplate#readme"
+}
